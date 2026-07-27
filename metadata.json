@@ -1,0 +1,6 @@
+{
+  "name": "Holy Spirit ERP",
+  "description": "Comprehensive and modern School Management ERP for Holy Spirit Institute, Margao, Goa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
